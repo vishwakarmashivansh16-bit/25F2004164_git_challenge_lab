@@ -1,6 +1,7 @@
 # main.py
 # Arithmetic Operations in a single Pythn
 #main.py;
+
 def add(a, b):
     return a + b
 
